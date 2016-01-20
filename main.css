@@ -1,0 +1,68 @@
+.padre{
+	width: 945px;
+	height: 545px;
+	border:1px white solid;
+	background-color: #8CB27C;
+
+}
+.hijo{
+	width: 900px;
+	height: 500px;
+	border:1px white solid;
+	background-color: #8CB27C;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.subhijo1{
+	width: 150px;
+	height: 220px;
+	border: 1px white solid;
+	background-color: #8CB27C;
+	margin-top: 125px;
+	left: 0px;
+	display: inline-block;
+}
+.subhijo2{
+	width: 150px;
+	height: 220px;
+	border: 1px white solid;
+	background-color: #8CB27C;
+	margin-top: 125px;
+	float: right;
+	display: inline-block;
+	position: relative;
+}
+.circulo {
+     width: 250px;
+     height: 250px;
+     border-radius: 150px;
+     border-radius: 150px;
+     border-radius: 150px;
+     background: #8CB27C;
+     display: inline-block;
+     border:1px white solid;
+     position: relative;
+     left: 150px;
+     top: 20px;
+ }
+ .pelota1{
+ 	width: 30px;
+ 	height: 30px;
+ 	top: 75px;
+ 	left: 500px;
+ 	position: absolute;
+ }
+ .pelota2{
+ 	width: 30px;
+ 	height: 30px;
+ 	top: 340px;
+ 	left: 745px;
+ 	position: absolute;
+ }
+ .pelota3{
+ 	width: 30px;
+ 	height: 30px;
+ 	position: absolute;
+ 	top:158px;
+ 	left: 165px;
+ }
